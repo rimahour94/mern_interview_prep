@@ -4,6 +4,7 @@ import { route } from "./route/route.js";
 import { connection } from "./database/connection.js";
 import jwt from "jsonwebtoken";
 
+
 const app = express();
 app.use(express.json());
 
@@ -16,6 +17,7 @@ const PORT = process.env.PORT;
 const URL = process.env.USER_DATABASE_URL;
 // eslint-disable-next-line no-undef
 const secretKey = process.env.SECRET_KEY;
+
 app.use(route);
 connection(URL);
 

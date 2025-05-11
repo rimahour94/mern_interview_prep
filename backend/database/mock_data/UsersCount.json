@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "6814a96434a86d8cd42e0081",
+    "fullname": "Aarav Sharma",
+    "city": "Delhi",
+    "state": "Delhi",
+    "userCount": 33807403,
+    "createdAt": "2025-05-02T11:13:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0082",
+    "fullname": "Priya Mehta",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "userCount": 21673149,
+    "createdAt": "2025-05-02T11:14:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0083",
+    "fullname": "Rahul Verma",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "userCount": 15570786,
+    "createdAt": "2025-05-02T11:15:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0084",
+    "fullname": "Sneha Iyer",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "userCount": 14008262,
+    "createdAt": "2025-05-02T11:16:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0085",
+    "fullname": "Vikram Das",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "userCount": 12053697,
+    "createdAt": "2025-05-02T11:17:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0086",
+    "fullname": "Anjali Reddy",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "userCount": 11068877,
+    "createdAt": "2025-05-02T11:18:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0087",
+    "fullname": "Karan Patel",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "userCount": 8854444,
+    "createdAt": "2025-05-02T11:19:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0088",
+    "fullname": "Neha Singh",
+    "city": "Surat",
+    "state": "Gujarat",
+    "userCount": 8330528,
+    "createdAt": "2025-05-02T11:20:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e0089",
+    "fullname": "Rohan Joshi",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "userCount": 7345848,
+    "createdAt": "2025-05-02T11:21:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e008a",
+    "fullname": "Meera Kapoor",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "userCount": 4308510,
+    "createdAt": "2025-05-02T11:22:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e008b",
+    "fullname": "Amit Gupta",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "userCount": 4038214,
+    "createdAt": "2025-05-02T11:23:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e008c",
+    "fullname": "Pooja Nair",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "userCount": 3393380,
+    "createdAt": "2025-05-02T11:24:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e008d",
+    "fullname": "Siddharth Rao",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "userCount": 3286142,
+    "createdAt": "2025-05-02T11:25:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e008e",
+    "fullname": "Ritika Desai",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "userCount": 3106340,
+    "createdAt": "2025-05-02T11:26:30.253+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "6814a96434a86d8cd42e008f",
+    "fullname": "Arjun Bhatt",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "userCount": 2624865,
+    "createdAt": "2025-05-02T11:27:30.253+00:00",
+    "__v": 0
+  }
+]

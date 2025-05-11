@@ -35,7 +35,7 @@ const userschema = new mongoose.Schema({
   },
   avatar: {
     type: String,
-    required: [true, "User profile is ewquired"],
+    required: [true, "User profile is required"],
   },
   createdAt: {
     type: Date,

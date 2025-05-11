@@ -5,12 +5,18 @@ import { generateJwtToken } from "../server.js";
 
 export const registerUser = async (req, res) => {
   const { fullname, email, password } = req.body || {};
+  const { location } = (await req.file) || "";
 
   if (!fullname && !email && !password) {
     return res.status(status.invalidRequest).send(userRegister.failure);
   }
   try {
-    const user = new usermodel({ fullname, email, password });
+    const user = new usermodel({
+      fullname,
+      email,
+      password,
+      avatar: location,
+    });
     const userRes = await user.save();
     userRegister.success.data = userRes;
     return res.status(status.success).send(userRegister.success);
@@ -44,6 +50,7 @@ export const userlogin = async (req, res) => {
     let data = {
       email: user.email,
       fullname: user.fullname,
+      avatar: user.avatar,
       createdAt: user.createdAt,
     };
 
